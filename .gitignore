@@ -22,3 +22,9 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+AppDeVendas/.mvn/wrapper/maven-wrapper.properties
+AppDeVendas/mvnw
+AppDeVendas/mvnw.cmd
+AppDeVendas/pom.xml
+AppDeVendas/src/main/resources/META-INF/persistence.xml
+AppDeVendas/src/main/resources/application.properties
